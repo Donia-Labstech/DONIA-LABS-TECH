@@ -1,0 +1,321 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.24)  24 FEB 2026 23:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./donia_cloud_exam.tex
+(donia_cloud_exam.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ar\babe
+l-arabic.tex)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babe
+l-english.tex)
+Package babel Info: Importing font and identification data for arabic
+(babel)             from babel-ar.ini. Reported on input line 4320.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabic.ldf
+File: arabic.ldf 
+Language: arabic 2006/01/01 v0.1 Arabic support for the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Arabic' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 35.
+
+Package babel Info: Hyphen rules for 'arabic' set to \l@english
+(babel)             (\language0). Reported on input line 36.
+Loading the definitions for the LaTeX{} Arabic encoding
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laeenc.def
+File: laeenc.def 2006/01/01 v0.1 Local Arabic font encoding (test version: may 
+change)
+Now handling font encoding LAE ...
+... processing UTF-8 mapping file for font encoding LAE
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laeenc.dfu
+File: laeenc.dfu 2006/01/01 v1.0 UTF-8 support for Arabic and Farsi for use wit
+h inputenc
+   defining Unicode char U+066A (decimal 1642)
+   defining Unicode char U+060C (decimal 1548)
+   defining Unicode char U+0660 (decimal 1632)
+   defining Unicode char U+0661 (decimal 1633)
+   defining Unicode char U+0662 (decimal 1634)
+   defining Unicode char U+0663 (decimal 1635)
+   defining Unicode char U+0664 (decimal 1636)
+   defining Unicode char U+0665 (decimal 1637)
+   defining Unicode char U+0666 (decimal 1638)
+   defining Unicode char U+0667 (decimal 1639)
+   defining Unicode char U+0668 (decimal 1640)
+   defining Unicode char U+0669 (decimal 1641)
+   defining Unicode char U+061B (decimal 1563)
+   defining Unicode char U+061F (decimal 1567)
+   defining Unicode char U+0621 (decimal 1569)
+   defining Unicode char U+0622 (decimal 1570)
+   defining Unicode char U+0623 (decimal 1571)
+   defining Unicode char U+0624 (decimal 1572)
+   defining Unicode char U+0625 (decimal 1573)
+   defining Unicode char U+0626 (decimal 1574)
+   defining Unicode char U+0627 (decimal 1575)
+   defining Unicode char U+0628 (decimal 1576)
+   defining Unicode char U+0629 (decimal 1577)
+   defining Unicode char U+062A (decimal 1578)
+   defining Unicode char U+062B (decimal 1579)
+   defining Unicode char U+062C (decimal 1580)
+   defining Unicode char U+062D (decimal 1581)
+   defining Unicode char U+062E (decimal 1582)
+   defining Unicode char U+062F (decimal 1583)
+   defining Unicode char U+0630 (decimal 1584)
+   defining Unicode char U+0631 (decimal 1585)
+   defining Unicode char U+0632 (decimal 1586)
+   defining Unicode char U+0633 (decimal 1587)
+   defining Unicode char U+0634 (decimal 1588)
+   defining Unicode char U+0635 (decimal 1589)
+   defining Unicode char U+0636 (decimal 1590)
+   defining Unicode char U+0637 (decimal 1591)
+   defining Unicode char U+0638 (decimal 1592)
+   defining Unicode char U+0639 (decimal 1593)
+   defining Unicode char U+063A (decimal 1594)
+   defining Unicode char U+0640 (decimal 1600)
+   defining Unicode char U+0641 (decimal 1601)
+   defining Unicode char U+0642 (decimal 1602)
+   defining Unicode char U+0643 (decimal 1603)
+   defining Unicode char U+0644 (decimal 1604)
+   defining Unicode char U+0645 (decimal 1605)
+   defining Unicode char U+0646 (decimal 1606)
+   defining Unicode char U+0647 (decimal 1607)
+   defining Unicode char U+0648 (decimal 1608)
+   defining Unicode char U+0649 (decimal 1609)
+   defining Unicode char U+064A (decimal 1610)
+   defining Unicode char U+064B (decimal 1611)
+   defining Unicode char U+064C (decimal 1612)
+   defining Unicode char U+064D (decimal 1613)
+   defining Unicode char U+064E (decimal 1614)
+   defining Unicode char U+064F (decimal 1615)
+   defining Unicode char U+0650 (decimal 1616)
+   defining Unicode char U+0651 (decimal 1617)
+   defining Unicode char U+0652 (decimal 1618)
+   defining Unicode char U+067E (decimal 1662)
+   defining Unicode char U+0686 (decimal 1670)
+   defining Unicode char U+0698 (decimal 1688)
+   defining Unicode char U+06A9 (decimal 1705)
+   defining Unicode char U+06AF (decimal 1711)
+   defining Unicode char U+06CC (decimal 1740)
+   defining Unicode char U+06F0 (decimal 1776)
+   defining Unicode char U+06F1 (decimal 1777)
+   defining Unicode char U+06F2 (decimal 1778)
+   defining Unicode char U+06F3 (decimal 1779)
+   defining Unicode char U+06F4 (decimal 1780)
+   defining Unicode char U+06F5 (decimal 1781)
+   defining Unicode char U+06F6 (decimal 1782)
+   defining Unicode char U+06F7 (decimal 1783)
+   defining Unicode char U+06F8 (decimal 1784)
+   defining Unicode char U+06F9 (decimal 1785)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+06D5 (decimal 1749)
+))
+Loading the Common definitions for Arabic and Farsi
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabicore.sty
+  Arabi Core switching commands v1.0  2006/01/01   (may still change)  
+\n@everypar=\toks19
+\@Arabitempboxa=\box53
+\llahheight=\skip51
+\Decimalheight=\skip52
+)
+LaTeX Font Info:    Redeclaring font encoding LAE on input line 144.
+
+Loading the Arabi fonts definitions for Arabic
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabicfnt.sty
+  Arabic font switching commands v1.0  2006/01/01   (may still change)  
+LaTeX Info: Redefining \texttimes on input line 101.
+LaTeX Info: Redefining \times on input line 102.
+LaTeX Info: Redefining \omega on input line 137.
+)
+Loading the Common definitions for Arabic and Farsi
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabnovowel.sty
+File: arabnovowel.sty 2005/09/07 v0.1 Arabic dummy vowel slots when needed
+\ArabiStruthightOFF=\skip53
+\ArabiStrutdepthOFF=\skip54
+\ArabiStruthightON=\skip55
+\ArabiStrutdepthON=\skip56
+LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 1
+33.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\laecmr.fd
+File: laecmr.fd 2006/01/01 v0.1 LaTeX Arabic default font description (test ver
+sion: may change)
+)
+LaTeX Font Info:    Font shape `LAE/cmr/m/n' will be
+(Font)              scaled to size 15.0pt on input line 133.
+)
+*************************************
+* Local config file arabic.cfg used
+*
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\arabic.cfg))
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4320.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.
+ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks21
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+)
+No file donia_cloud_exam.aux.
+\openout1 = `donia_cloud_exam.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+! LaTeX Error: Command \aleflowerhamza unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11     \Large إ
+                  ختبار مادة: BEM \\
+? 
