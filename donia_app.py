@@ -49,7 +49,7 @@ if st.button("🚀 تنفيذ المهمة"):
                     instruction = f"أنت مصحح خبير في {subject}. قم بتحليل إجابة الطالب التالية، قدم تنقيطاً دقيقاً من 20، ووضح الأخطاء مع التصحيح النموذجي باستخدام LaTeX."
 
                 completion = client.chat.completions.create(
-                    model="model="llama-3.1-70b-versatile",
+                   model="llama-3.3-70b-versatile",
                     messages=[
                         {"role": "system", "content": instruction},
                         {"role": "user", "content": user_input}
