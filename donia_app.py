@@ -1,4 +1,18 @@
 import streamlit as st
+
+st.set_page_config(page_title="DONIA MIND", layout="wide")
+
+# كود CSS لإخفاء عناصر Streamlit الافتراضية
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            header {visibility: hidden;}
+            footer {visibility: hidden;}
+            .stDeployButton {display:none;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+import streamlit as st
 from groq import Groq
 from fpdf import FPDF
 import datetime
